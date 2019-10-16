@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-
+// 깃허브 테스트 중입니다.
 public class MainActivity extends AppCompatActivity {
 Button btn_item_upload, btn_mypage;
     @Override
